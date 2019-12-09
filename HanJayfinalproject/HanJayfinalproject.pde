@@ -95,10 +95,10 @@ void setup(){
   background(255 ); // WHITE background
   
   // SOUND FILES //
-  file = new SoundFile(this, "lifewillchange2.wav"); // life will change song SoundFile
+  file = new SoundFile(this, "lifewillchange.mp3"); // life will change song SoundFile
   file2 = new SoundFile(this, "rivers.mp3"); // rivers in the desert song SoundFile
   file3 = new SoundFile(this, "beneath.mp3"); // beneath the mask song Soundfile
-  songMenu1 = new SoundFile(this, "lifewillchange2.wav"); // life will change song SoundFile (menu)
+  songMenu1 = new SoundFile(this, "lifewillchange.mp3"); // life will change song SoundFile (menu)
   songMenu2 = new SoundFile(this, "rivers.mp3"); // rivers in the desert song SoundFile (menu)
   songMenu3 = new SoundFile(this, "beneath.mp3"); // beneath the mask song song Soundfile (Menu)
   smack = new SoundFile(this, "smack.wav"); // smack sound SoundFile
